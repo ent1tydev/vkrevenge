@@ -1,4 +1,4 @@
-# vkrevenge
+# VK Revenge
 <p><img src="https://github.com/ent1tydev/vkrevenge/blob/c68d6d2eeb7bf2020464e6e2f6147560dd9c170a/logo.png?raw=true" alt="" width="525" height="379" /></p>
 VK Revenge - или же "ВК Месть", это программа, нацеленная на распространение номера телефона в открытых пабликах ВКонтакте "Номера Видеоблогеров" с рандомным выбором блогера.
 
